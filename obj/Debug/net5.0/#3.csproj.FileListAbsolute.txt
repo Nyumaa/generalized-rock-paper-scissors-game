@@ -1,0 +1,16 @@
+C:\Обучение\#3\bin\Debug\net5.0\#3.exe
+C:\Обучение\#3\bin\Debug\net5.0\#3.deps.json
+C:\Обучение\#3\bin\Debug\net5.0\#3.runtimeconfig.json
+C:\Обучение\#3\bin\Debug\net5.0\#3.runtimeconfig.dev.json
+C:\Обучение\#3\bin\Debug\net5.0\#3.dll
+C:\Обучение\#3\bin\Debug\net5.0\ref\#3.dll
+C:\Обучение\#3\bin\Debug\net5.0\#3.pdb
+C:\Обучение\#3\obj\Debug\net5.0\#3.csprojAssemblyReference.cache
+C:\Обучение\#3\obj\Debug\net5.0\#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\#3\obj\Debug\net5.0\#3.AssemblyInfoInputs.cache
+C:\Обучение\#3\obj\Debug\net5.0\#3.AssemblyInfo.cs
+C:\Обучение\#3\obj\Debug\net5.0\#3.csproj.CoreCompileInputs.cache
+C:\Обучение\#3\obj\Debug\net5.0\#3.dll
+C:\Обучение\#3\obj\Debug\net5.0\ref\#3.dll
+C:\Обучение\#3\obj\Debug\net5.0\#3.pdb
+C:\Обучение\#3\obj\Debug\net5.0\#3.genruntimeconfig.cache
